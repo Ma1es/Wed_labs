@@ -2,16 +2,13 @@ body{
     background: #F3F3F3;
 }
 
-.container{
-    padding: 0 15px;
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.header{
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #624C91;
     padding: 15px 60px;
+
 }
 
 .header_display{
@@ -64,12 +61,6 @@ body{
 }
 .title {
     font-size: 60px;
-}
-
-.header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
 
 .list_of_snakes {
