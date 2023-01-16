@@ -53,12 +53,6 @@ body{
     margin-left: 60px;
 }
 
-.main_publications{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    align-items: self-end;
-}
 .title {
     font-size: 60px;
 }
